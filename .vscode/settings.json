@@ -1,0 +1,26 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.trimTrailingWhitespace": true,
+    "go.lintFlags": [
+        "-min_confidence=.8"
+    ],
+    "go.vetFlags": [
+        "-all"
+    ],
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true,
+    "editor.scrollBeyondLastLine": false,
+    "javascript.validate.enable": false,
+    "eslint.enable": false,
+    "editor.formatOnType": false,
+    "editor.tabCompletion": true,
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "[go]": {
+        "editor.tabSize": 4
+    },
+    "[yaml]": {
+        "editor.tabSize": 2,
+        "editor.renderIndentGuides": true
+  }
+}
